@@ -1,3 +1,6 @@
+YHX的留言：由于该README文过于庞大，不方便翻译，所以作者就基本没动原文档
+下面是 SearXNG 官方 README：
+<br>
 .. SPDX-License-Identifier: AGPL-3.0-or-later
 
 ----
