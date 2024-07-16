@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="255" height="50" viewBox="0 0 200 50">
-  <text x="0" y="40" font-family="Arial" font-size="40" fill="blue" style="text-align:center;">QuickSearch</text>
+  <text x="0" y="40" font-family="Arial" font-size="40" fill="blue">QuickSearch</text>
 </svg>
