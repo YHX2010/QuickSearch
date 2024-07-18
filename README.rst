@@ -1,5 +1,7 @@
 YHX的留言：由于该README文档过于庞大，不方便翻译，所以YHX就基本没动原文档
 
+QuickSearch计划为原SearXNG基础上加个AI以及改个名（SearXNG的搜索真的很棒，不说和Google有的一拼，起码吊打百度），其他的也不敢动太多，毕竟这么大一个搜索引擎一个人不好改造
+
 下面是 SearXNG 官方 README：
 
 
