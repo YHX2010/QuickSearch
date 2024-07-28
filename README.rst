@@ -1,9 +1,9 @@
-YHX的留言：由于该README文档过于庞大，不方便翻译，所以YHX就基本没动原文档（人机rst改的我难受！）
+YHX的留言：由于该README文档过于庞大，不方便翻译，所以就基本没动原文档（人机rst改的我难受！）
 
 .. _pages.sh: https://github.com/yhx2010/quicksearch/blob/master/cloudflare/pages.sh
 支持cf pages部署，脚本：pages.sh_
 
-QuickSearch计划为原SearXNG基础上加个AI以及改个名（SearXNG的搜索真的很棒，不说和Google有的一拼，起码吊打百度），其他的也不敢动太多，毕竟这么大一个搜索引擎一个人不好改造
+QuickSearch计划为原SearXNG基础上加个AI以及改个名（SearXNG的搜索真的很棒，不说和Google有的一拼，起码吊打*度），其他的也不敢动太多，毕竟这么大一个搜索引擎一个人不好改造
 
 下面是 SearXNG 官方 README：
 
@@ -12,7 +12,7 @@ QuickSearch计划为原SearXNG基础上加个AI以及改个名（SearXNG的搜�
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
+.. figure:: https://mirror.ghproxy.com/https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
    :target: https://docs.searxng.org/
    :alt: SearXNG
    :width: 100%
