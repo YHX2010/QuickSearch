@@ -705,7 +705,7 @@ def search():
         if output_format == 'html':
             if 'content' in result and result['content']:
                 result['content'] = highlight_content(escape(result['content'][:1024]), search_query.query)
-            if 'title' in result and rxesult['title']:
+            if 'title' in result and result['title']:
                 result['title'] = highlight_content(escape(result['title'] or ''), search_query.query)
 
         if 'url' in result:
